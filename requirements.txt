@@ -1,1 +1,2 @@
 smeterd==2.8.1
+paho-mqtt==1.5.1
